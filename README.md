@@ -1,5 +1,4 @@
 # British-Airways-Data-Science-Job-Simulation-on-Forage
-```markdown
 # Customer Buying Behavior Prediction
 
 This repository contains the code and analysis for predicting customer buying behavior using machine learning models. The goal of this project is to identify the factors that influence customers to purchase flights or holidays and predict whether they will complete a booking based on historical data.
@@ -108,4 +107,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the dataset providers for making this project possible.
 - Inspired by various machine learning resources and tutorials.
-```
+
