@@ -93,18 +93,3 @@ After hyperparameter tuning, the Random Forest model achieved an **accuracy of 8
 
 By understanding the factors that contribute to customer booking behavior, airlines can proactively target customers with personalized marketing campaigns to increase conversions.
 
-## Future Work
-
-- Incorporating more features such as customer demographics.
-- Exploring other machine learning models such as Neural Networks.
-- Testing the model on a real-time booking system.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the dataset providers for making this project possible.
-- Inspired by various machine learning resources and tutorials.
-
